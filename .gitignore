@@ -1,0 +1,22 @@
+#Byte-compiled / compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+#Virtual environment
+venv/
+env/
+
+#Logs and databases
+*.log
+*.sqlite3
+*.db
+
+#IDE-specific files and directories
+.idea/
+.vscode/
+
+#Dependency directories
+__pycache__/
+node_modules/
